@@ -1,21 +1,20 @@
-# element
+# Element + vue-cli
 
-> A Vue.js project
+> 一个后台管理模板
 
 ## Build Setup
 
 ``` bash
-# install dependencies
+# 安装依赖
 npm install
 
-# serve with hot reload at localhost:8080
+# 启动本地服务 localhost:8080
 npm run dev
 
-# build for production with minification
+# 打包
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
+
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+个人技术博客 =>  [简书](https://www.jianshu.com/u/4d4a42803750)。
