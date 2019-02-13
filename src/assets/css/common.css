@@ -1,0 +1,26 @@
+
+
+.page-info{
+  padding: 20px;
+}
+.page-title{
+  height: 40px;
+  line-height: 40px;
+}
+.page-title span{
+  font-size: 16px;
+  padding-left: 20px;
+  font-weight: 700;
+}
+.block{
+  padding: 20px;
+}
+.page-btn{
+  padding: 10px 20px;
+}
+.switch-box{
+  padding-left: 20px;
+}
+.layer-info{
+  padding-right: 40px;
+}
